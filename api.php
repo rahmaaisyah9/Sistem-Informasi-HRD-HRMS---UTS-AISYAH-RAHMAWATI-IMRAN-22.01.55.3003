@@ -12778,9 +12778,9 @@ namespace Tqdev\PhpCrudApi {
         // 'driver' => 'mysql',
         // 'address' => 'localhost',
         // 'port' => '3306',
-        'database' => 'hrd_uts', // Ganti dengan nama database kamu
-        'username' => 'root',     // Username XAMPP default
-        'password' => ''          // Password XAMPP default
+        'database' => 'hrd_uts', 
+        'username' => 'root',     
+        'password' => ''          
         // 'debug' => false
     ]);
     $request = RequestFactory::fromGlobals();
